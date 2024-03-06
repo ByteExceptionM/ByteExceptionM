@@ -1,4 +1,4 @@
-### Hi, I'm ByteException_ 👋
+### Hi, I'm Marcel 👋
 
 - 🔭 I’m currently working at [@iwmedia](https://github.com/iwmedia)
 - ⚙️ Minecraft Java- and Bedrock-API: https://mc-api.io
